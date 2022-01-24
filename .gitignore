@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+mediumsanitybuild/nod_modules
+
 # testing
 /coverage
 
